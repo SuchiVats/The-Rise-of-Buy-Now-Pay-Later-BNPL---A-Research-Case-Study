@@ -1,0 +1,2 @@
+# The-Rise-of-Buy-Now-Pay-Later-BNPL---A-Research-Case-Study
+This case study explores the growth of Buy Now, Pay Later (BNPL) services, analyzing their impact on consumer behavior, spending habits, and credit risk within the fintech sector. It evaluates the evolution, market penetration, and implications of BNPL for consumers and businesses, with comparisons between Indian and global market offerings.
